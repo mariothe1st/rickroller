@@ -1,0 +1,23 @@
+{
+    "name": "speedometer",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "microphone": "*",
+        "microturtle": "github:microsoft/pxt-microturtle#v0.0.9",
+        "bluetooth": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
